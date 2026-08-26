@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HimanshuKumarRout/DSA/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/HimanshuKumarRout/DSA/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/HimanshuKumarRout/DSA/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HimanshuKumarRout/DSA/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/HimanshuKumarRout/DSA/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/HimanshuKumarRout/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
