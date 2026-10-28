@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuKumarRout/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/HimanshuKumarRout/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/HimanshuKumarRout/DSA/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/HimanshuKumarRout/DSA/tree/master/0238-product-of-array-except-self) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/HimanshuKumarRout/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HimanshuKumarRout/DSA/tree/master/0074-search-a-2d-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/HimanshuKumarRout/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
