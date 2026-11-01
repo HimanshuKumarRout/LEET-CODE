@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/HimanshuKumarRout/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/HimanshuKumarRout/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/HimanshuKumarRout/DSA/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/HimanshuKumarRout/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshuKumarRout/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HimanshuKumarRout/DSA/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/HimanshuKumarRout/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/HimanshuKumarRout/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/HimanshuKumarRout/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/HimanshuKumarRout/DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/HimanshuKumarRout/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/HimanshuKumarRout/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/HimanshuKumarRout/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -99,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuKumarRout/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/HimanshuKumarRout/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/HimanshuKumarRout/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
