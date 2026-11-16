@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HimanshuKumarRout/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HimanshuKumarRout/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/HimanshuKumarRout/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/HimanshuKumarRout/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HimanshuKumarRout/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/HimanshuKumarRout/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/HimanshuKumarRout/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HimanshuKumarRout/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HimanshuKumarRout/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/HimanshuKumarRout/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/HimanshuKumarRout/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HimanshuKumarRout/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/HimanshuKumarRout/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/HimanshuKumarRout/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HimanshuKumarRout/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HimanshuKumarRout/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuKumarRout/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
@@ -111,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/HimanshuKumarRout/DSA/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/HimanshuKumarRout/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/HimanshuKumarRout/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
