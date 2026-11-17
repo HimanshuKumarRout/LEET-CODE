@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/HimanshuKumarRout/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HimanshuKumarRout/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HimanshuKumarRout/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/HimanshuKumarRout/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/HimanshuKumarRout/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/HimanshuKumarRout/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuKumarRout/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/HimanshuKumarRout/DSA/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
